@@ -42,9 +42,9 @@
         android:text="Call Rob" />
 
     <Button
-        android:id="@+id/emailNickButton"
+        android:id="@+id/emailRobButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
-        android:text="Email Nick" />
+        android:text="Email Rob" />
 </LinearLayout>
